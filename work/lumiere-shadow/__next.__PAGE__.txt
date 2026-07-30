@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[32177,["/_next/static/chunks/06fi4wlyafx2w.js","/_next/static/chunks/0ig4lcknxbm2-.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/04~2dn~vjsnzq.js","/_next/static/chunks/0qvhwm3wf97m-.js"],"Hero"]
+3:I[15038,["/_next/static/chunks/06fi4wlyafx2w.js","/_next/static/chunks/0ig4lcknxbm2-.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/04~2dn~vjsnzq.js","/_next/static/chunks/0qvhwm3wf97m-.js"],"WorkPreview"]
+4:I[90186,["/_next/static/chunks/06fi4wlyafx2w.js","/_next/static/chunks/0ig4lcknxbm2-.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/04~2dn~vjsnzq.js","/_next/static/chunks/0qvhwm3wf97m-.js"],"FeaturedProducts"]
+5:I[56442,["/_next/static/chunks/06fi4wlyafx2w.js","/_next/static/chunks/0ig4lcknxbm2-.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/04~2dn~vjsnzq.js","/_next/static/chunks/0qvhwm3wf97m-.js"],"AboutPreview"]
+6:I[25050,["/_next/static/chunks/06fi4wlyafx2w.js","/_next/static/chunks/0ig4lcknxbm2-.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/04~2dn~vjsnzq.js","/_next/static/chunks/0qvhwm3wf97m-.js"],"Testimonials"]
+7:I[83690,["/_next/static/chunks/06fi4wlyafx2w.js","/_next/static/chunks/0ig4lcknxbm2-.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/04~2dn~vjsnzq.js","/_next/static/chunks/0qvhwm3wf97m-.js"],"ContactCTA"]
+8:I[97367,["/_next/static/chunks/06fi4wlyafx2w.js","/_next/static/chunks/0ig4lcknxbm2-.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/04~2dn~vjsnzq.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qvhwm3wf97m-.js","async":true}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rVCxtdyHi0izZXrUgYIes"}
+a:null
